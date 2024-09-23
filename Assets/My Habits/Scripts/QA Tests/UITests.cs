@@ -4,15 +4,8 @@ using UnityEngine;
 
 public class UITests : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private void StartTests()
     {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
